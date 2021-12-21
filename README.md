@@ -8,6 +8,7 @@
     - Assembly : write a NASM script that could execute a small CLI for Linux, such as a text editor, or basic mathematical problems, e.g. 2nd degree equation solver, or memory management.
     - C/CPP/Qt : Create a card game with special rules. I am pretty fond of "belote", a Southern France card game. Rules are pretty close to bridge, with trump/no trump and contract valuation assessment. I'd like to mix those rules for this unique card game, that I'd fancy calling "Trumps".
     - Python : small everyday scripts whenever it is required by Brilliant's daily challenge.
+    - Cryptocurrency : surprisingly, it's not that difficult to create a basic cryptocurrency. Of course, it's not BitCore and won't pretend to have all the features to be qualified as a currency. The idea is to build the currency with the Solidity language on the Ethereum platform, with a special emphasis on distribution through humanitarian projects. For example, the equivalent of the gas fees for Ethereum could be shared with a simple weighed distribution between payments to the miners and subsidies to selected projects by a decentralized community. 
 
 <!---
 julienmatuszak/julienmatuszak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
