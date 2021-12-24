@@ -9,6 +9,7 @@
     - C/CPP/Qt : Create a card game with special rules. I am pretty fond of "belote", a Southern France card game. Rules are pretty close to bridge, with trump/no trump and contract valuation assessment. I'd like to mix those rules for this unique card game, that I'd fancy calling "Trumps".
     - Python : small everyday scripts whenever it is required by Brilliant's daily challenge.
     - Cryptocurrency : surprisingly, it's not that difficult to create a basic cryptocurrency. Of course, it's not BitCore and won't pretend to have all the features to be qualified as a currency. The idea is to build the currency with the Solidity language on the Ethereum platform, with a special emphasis on distribution through humanitarian projects. For example, the equivalent of the gas fees for Ethereum could be shared with a simple weighed distribution between payments to the miners and subsidies to selected projects by a decentralized community. 
+    - Hacking : my understanding is that hackers tries proven techniques to access data from secure vaults, in order. Right now, the Log4J vulnerability, which is present on a big part of worldwide servers, is likely prone to attacks in 2022. The idea is to choose likely low-security servers and hack them with state-of-the-art techniques to communicate their vulnerabilities to their owners.
 
 <!---
 julienmatuszak/julienmatuszak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
