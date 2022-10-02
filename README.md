@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @julienmatuszak, I'm 43 and I work as a freelance linguist/teacher/programmer/trader/actor.
-- 👀 I’m interested in all things related to programmin but mostly in blockchain technologies.
+- 👀 I’m interested in all things related to programming but mostly in blockchain technologies.
 - 🌱 I followed a few curricula in Web programming and worked as a Web implementation engineer for some time but I prefer to work on core applications and as a freelancer on personal projects.
 - 💞️ I’m looking for a beginner codding buddy to create any kind of applications : Web App developement-projects, basic cryptocurrency projects, etc. I prefer to work on small applications with one single purpose than monolithic monstrosities.
 - 📫 How to reach me julienmatuszak@gmail.com / @MatuszakJulien / +370 678 38473
