@@ -11,7 +11,7 @@
     - Assembly : write a NASM script that could execute a small CLI for Linux, such as a text editor, or basic mathematical problems, e.g. 2nd degree equation solver, or memory management.
     - C/CPP/Qt : Create a card game with special rules. I am pretty fond of "belote", a Southern France card game. Rules are pretty close to bridge, with trump/no trump and contract valuation assessment. I'd like to mix those rules for this unique card game, that I'd fancy calling "Trumps".
     - Python : work on everyday small scripts when required by Brilliant's daily challenges, a little bit like puzzles in chess :).
-    - Hacking : my understanding is that hackers tries proven techniques to access data from secure vaults, in order. Right now, the Log4J vulnerability, which is present on a big part of worldwide servers, is likely prone to attacks in 2022. The idea is to choose likely low-security servers and hack them with state-of-the-art techniques to communicate their vulnerabilities to their owners.
+    - Hacking : my understanding is that hackers tries proven techniques to access data from secure vaults, in order. Right now, the Log4J vulnerability, which is present on a big part of worldwide servers, is likely prone to attacks. The idea is to choose likely low-security servers and hack them with state-of-the-art techniques to communicate their vulnerabilities to their owners.
 
 <!---
 julienmatuszak/julienmatuszak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
