@@ -6,6 +6,7 @@
 - Main project :
     - Online Translator from English to French and French Canadian. More at https://www.frenchizer.com
 - Other ideas :
+    - Cryptocurrency project : DeFi currency based on microcredit.
     - React TS / JAVA Spring / PostGreSQL : We developed an availability tracker during the Sourcery curriculum, based on the great react-calendar-timeline library and associated with Java Spring for the BE. The application had full login (with security handling), user management, team management, time-off time management and availability time-off display features including editing/adding/deleting functionalities, and an API with full CRUD features for interaction with the BE. I'm planning to recreate this app and add more features like scrolling possibility that would allow to switch from a month timeline to a day timeline, etc.
     - Assembly : write a NASM script that could execute a small CLI for Linux, such as a text editor, or basic mathematical problems, e.g. 2nd degree equation solver, or memory management.
     - C/CPP/Qt : Create a card game with special rules. I am pretty fond of "belote", a Southern France card game. Rules are pretty close to bridge, with trump/no trump and contract valuation assessment. I'd like to mix those rules for this unique card game, that I'd fancy calling "Trumps".
