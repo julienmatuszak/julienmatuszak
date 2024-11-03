@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @julienmatuszak, I'm 43 and I work as a freelance linguist.
-- 👀 I’m interested in all things related to programming but mostly linguistic applications, and a bit fintech (blockchain, crypto).
+- 👋 Hi, I am @julienmatuszak, I am 45 years old and I work as a freelance linguist.
+- 👀 I am interested in all things related to programming but mostly linguistic applications, and a bit fintech (blockchain, crypto).
 - 🌱 I followed a few curricula in Web programming and worked as a Web implementation engineer for some time, but I prefer to work on core applications and as a freelancer on personal projects.
-- 💞️ I’m looking for a beginner codding buddy to create any kind of applications : Web App developement-projects, basic cryptocurrency projects, etc. I prefer to work on small applications with one single purpose than monolithic monstrosities.
+- 💞️ I am looking for developers for a online translator Web application.  Web App developement-projects, basic cryptocurrency projects, etc. I prefer to work on small applications with one single purpose than monolithic monstrosities.
 - 📫 How to reach me julienmatuszak@gmail.com / @MatuszakJulien / +370 678 38473
 - Main project :
     - Currently following the void to fill in the cracks of the financial system that allowed such a huge number of cryptocurrency projects. I believe that only few of them will manage to solve the 
