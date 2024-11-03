@@ -2,7 +2,7 @@
 - 👀 I am interested in all things related to programming but mostly linguistic applications, and a bit fintech (blockchain, crypto).
 - 🌱 I followed a few curricula in Web programming and worked as a Web implementation engineer for some time, but I prefer to work on core applications and as a freelancer on personal projects.
 - 💞️ I am looking for developers for a online translator Web application. Other side projects include Web app developement, cryptocurrency, etc. I prefer to work on small microservices rather than monolithic applications.
-- 📫 How to reach me julienmatuszak@gmail.com / @MatuszakJulien / +370 678 38473
+- 📫 How to reach me julienmatuszak@gmail.com / @MatuszakJulien
 - Main project :
     - Online Translator from English to French and French Canadian. More at https://www.frenchizer.com
 - Other ideas :
