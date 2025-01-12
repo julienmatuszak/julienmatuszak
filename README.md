@@ -8,6 +8,8 @@
 - Secondary projects in development:
     - Cryptocurrency (Bitcoin core): DeFi currency based on microcredit.
     - Civilization-like game (JAVA).
+    - Customizable LLM.
+    - Quantum computing course.
 - Other:
     - JAVA Spring / PostgreSQL: We developed an availability tracker during the Sourcery curriculum, based on the great react-calendar-timeline library and associated with Java Spring for the BE. The application had full login (with security handling), user management, team management, time-off time management, and availability time-off display features including editing/adding/deleting functionalities, and an API with full CRUD features for interaction with the BE. I plan to recreate this app and add more features like the scrolling possibility that would allow one to switch from a month timeline to a day timeline, etc.
     - Assembly: write a NASM script that could execute a small CLI for Linux, such as a text editor or basic mathematical problems. It could be 2nd degree equation solver or memory management.
