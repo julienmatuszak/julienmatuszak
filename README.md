@@ -1,12 +1,13 @@
 - 👋 Hi, I am @julienmatuszak, I am 45 years old and I work as a freelance linguist.
 - 👀 I am interested in all things related to programming. I prefer to work on small microservices rather than monolithic applications.
 - 🌱 I followed a few curricula in Web programming and worked as a Web implementation engineer for some time but I prefer to work on core applications and as a freelancer on personal projects.
-- 💞️ I am seeking a fine tuner for an online translator Web application -> https://www.linkedin.com/hiring/jobs/4111900866/detail/
+- 💞️ I am seeking a fine tuner for an online translator Web application
 - 📫 How to reach me @MatuszakJulien
 - Main project:
     - Online Translator from English to French and French Canadian (React TS, PyTorch, ONNX). Check out https://www.frenchizer.com.
 - Secondary projects in development:
-    - Cryptocurrency (Bitcoin core): DeFi currency based on microcredit.
+    - Cryptocurrency (Bitcoin core): DeFi currency based on a special ingredient.
+    - Trading application: most projects in development that I have discussed with people miss a key feature (and maybe even two).
     - Civilization-like game (JAVA).
     - Customizable LLM.
     - Quantum computing course.
